@@ -1,4 +1,5 @@
-MutableArray/MutableArray/bin/
-MutableArray/MutableArray/obj/Debug/
-MutableArray/MutableArray.sln.ide/
-MutableArray/MutableArray.v12.suo
+*.suo
+*.user
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
